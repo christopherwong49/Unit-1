@@ -5,17 +5,17 @@ Amsterdam Schiphol Airport
 Amsterdam Schiphol Airport
 Amsterdam Schiphol Airport
 Amsterdam Airport Schiphol
-Hartsfieldâ€“Jackson Atlanta International Airport
-Hartsfieldâ€“Jackson Atlanta International Airport
-Hartsfieldâ€“Jackson Atlanta International Airport
-Hartsfieldâ€“Jackson Atlanta International Airport
-Hartsfieldâ€“Jackson Atlanta International Airport
-Hartsfieldâ€“Jackson Atlanta International Airport
-Hartsfieldâ€“Jackson Atlanta International Airport
-Barcelonaâ€“El Prat Airport
-Barcelonaâ€“El Prat Airport
-Barcelonaâ€“El Prat Airport
-Barcelonaâ€“El Prat Airport
+Hartsfield Jackson Atlanta International Airport
+Hartsfield Jackson Atlanta International Airport
+Hartsfield Jackson Atlanta International Airport
+Hartsfield Jackson Atlanta International Airport
+Hartsfield Jackson Atlanta International Airport
+Hartsfield Jackson Atlanta International Airport
+Hartsfield Jackson Atlanta International Airport
+Barcelona El Prat Airport
+Barcelona El Prat Airport
+Barcelona El Prat Airport
+Barcelona El Prat Airport
 Barcelona Airport
 Barcelona Airport
 Barcelona Airport
@@ -43,19 +43,19 @@ Guangzhou Baiyun International Airport
 Guangzhou Baiyun International Airport
 Guangzhou Baiyun International Airport
 Charles de Gaulle Airport
-Paris-Charles de Gaulle Airport
-Paris-Charles de Gaulle Airport
-Paris-Charles de Gaulle Airport
-Paris-Charles de Gaulle Airport
-Paris-Charles de Gaulle Airport
-Paris-Charles de Gaulle Airport
-Soekarnoâ€“Hatta International Airport
-Soekarno-Hatta International Airport
-Soekarno-Hatta International Airport
-Soekarno-Hatta International Airport
-Soekarno-Hatta International Airport
-Soekarno-Hatta International Airport
-Soekarno-Hatta International Airport
+Paris Charles de Gaulle Airport
+Paris Charles de Gaulle Airport
+Paris Charles de Gaulle Airport
+Paris Charles de Gaulle Airport
+Paris Charles de Gaulle Airport
+Paris Charles de Gaulle Airport
+Soekarno Hatta International Airport
+Soekarno Hatta International Airport
+Soekarno Hatta International Airport
+Soekarno Hatta International Airport
+Soekarno Hatta International Airport
+Soekarno Hatta International Airport
+Soekarno Hatta International Airport
 Charlotte Douglas International Airport
 Charlotte Douglas International Airport
 Charlotte Douglas International Airport
@@ -83,13 +83,13 @@ Denver International Airport
 Denver International Airport
 Denver International Airport
 Denver International Airport
-Dallas/Fort Worth International Airport
-Dallas/Fort Worth International Airport
-Dallas/Fort Worth International Airport
-Dallas/Fort Worth International Airport
-Dallas-Fort Worth International Airport
-Dallas-Fort Worth International Airport
-Dallas-Fort Worth International Airport
+Dallas Fort Worth International Airport
+Dallas Fort Worth International Airport
+Dallas Fort Worth International Airport
+Dallas Fort Worth International Airport
+Dallas Fort Worth International Airport
+Dallas Fort Worth International Airport
+Dallas Fort Worth International Airport
 Domodedovo International Airport
 Domodedovo International Airport
 Hamad International Airport
@@ -111,13 +111,13 @@ Newark Liberty International Airport
 Newark Liberty International Airport
 Newark Liberty International Airport
 Newark Liberty International Airport
-Leonardo da Vinciâ€“Fiumicino Airport
-Leonardo da Vinciâ€“Fiumicino Airport
-Leonardo da Vinciâ€“Fiumicino Airport
-Leonardo da Vinciâ€“Fiumicino Airport
-Leonardo da Vinci-Fiumicino Airport
-Leonardo da Vinci-Fiumicino Airport
-Leonardo da Vinci Airport
+Leonardo da Vinci Fiumicino Airport
+Leonardo da Vinci Fiumicino Airport
+Leonardo da Vinci Fiumicino Airport
+Leonardo da Vinci Fiumicino Airport
+Leonardo da Vinci Fiumicino Airport
+Leonardo da Vinci Fiumicino Airport
+Leonardo da Vinci Fiumicino Airport
 Frankfurt Airport
 Frankfurt Airport
 Frankfurt Airport
@@ -125,12 +125,12 @@ Frankfurt Airport
 Frankfurt Airport
 Frankfurt Airport
 Frankfurt Airport
-SÃ£o Paulo-Guarulhos International Airport
-SÃ£o Paulo-Guarulhos International Airport
-SÃ£o Paulo-Guarulhos International Airport
-SÃ£o Paulo-Guarulhos International Airport
-SÃ£o Paulo-Guarulhos International Airport
-SÃ£o Paulo-Guarulhos International Airport
+SÃ£o Paulo Guarulhos International Airport
+SÃ£o Paulo Guarulhos International Airport
+SÃ£o Paulo Guarulhos International Airport
+SÃ£o Paulo Guarulhos International Airport
+SÃ£o Paulo Guarulhos International Airport
+SÃ£o Paulo Guarulhos International Airport
 Hong Kong International Airport
 Hong Kong International Airport
 Hong Kong International Airport
@@ -159,13 +159,13 @@ Seoul Incheon International Airport
 Seoul Incheon International Airport
 Seoul Incheon International Airport
 Seoul Incheon International Airport
-Istanbul AtatÃ¼rk Airport
-Istanbul AtatÃ¼rk Airport
-Istanbul AtatÃ¼rk Airport
-AtatÃ¼rk International Airport
-AtatÃ¼rk International Airport
-AtatÃ¼rk International Airport
-AtatÃ¼rk International Airport
+Istanbul Ataturk Airport
+Istanbul Ataturk Airport
+Istanbul Ataturk Airport
+Istanbul Ataturk Airport
+Istanbul Ataturk Airport
+Istanbul Ataturk Airport
+Istanbul Ataturk Airport
 John F. Kennedy International Airport
 John F. Kennedy International Airport
 John F. Kennedy International Airport
@@ -216,7 +216,7 @@ Madrid Barajas Airport
 Madrid Barajas Airport
 Madrid Barajas Airport
 Madrid Barajas Airport
-Madrid-Barajas Airport
+Madrid Barajas Airport
 Orlando International Airport
 Orlando International Airport
 Orlando International Airport
@@ -227,10 +227,10 @@ Orlando International Airport
 Tullamarine International Airport
 Melbourne Airport
 Melbourne Airport
-Benito JuÃ¡rez International Airport
-Benito JuÃ¡rez International Airport
-Benito JuÃ¡rez International Airport
-Benito JuÃ¡rez International Airport
+Benito Juarez International Airport
+Benito Juarez International Airport
+Benito Juarez International Airport
+Benito Juarez International Airport
 Miami International Airport
 Miami International Airport
 Miami International Airport
@@ -249,9 +249,9 @@ Minneapolis/St Paul International Airport
 Minneapolis/St Paul International Airport
 Minneapolis/St Paul International Airport
 Minneapolis/St Paul International Airport
-Minneapolis-Saint Paul International Airport
-Minneapolis-Saint Paul International Airport
-Minneapolis-Saint Paul International Airport
+Minneapolis Saint Paul International Airport
+Minneapolis Saint Paul International Airport
+Minneapolis Saint Paul International Airport
 Munich Airport
 Munich Airport
 Munich Airport
@@ -296,13 +296,13 @@ Shanghai Pudong International Airport
 Shanghai Pudong International Airport
 Shanghai Pudong International Airport
 Shanghai Pudong International Airport
-Seattle-Tacoma International Airport
-Seattle-Tacoma International Airport
-Seattle-Tacoma International Airport
-Seattle-Tacoma International Airport
-Seattle-Tacoma International Airport
-Seattle-Tacoma International Airport
-Seattle-Tacoma International Airport
+Seattle Tacoma International Airport
+Seattle Tacoma International Airport
+Seattle Tacoma International Airport
+Seattle Tacoma International Airport
+Seattle Tacoma International Airport
+Seattle Tacoma International Airport
+Seattle Tacoma International Airport
 San Francisco International Airport
 San Francisco International Airport
 San Francisco International Airport
@@ -324,13 +324,13 @@ Singapore Changi Airport
 Singapore Changi Airport
 Singapore Changi Airport
 Singapore Changi Airport
-Sydney Kingsford-Smith Airport
-Sydney Kingsford-Smith Airport
-Sydney Kingsford-Smith Airport
-Sydney Kingsford-Smith Airport
-Sydney Airport
-Sydney Airport
-Sydney Airport
+Sydney Kingsford Smith Airport
+Sydney Kingsford Smith Airport
+Sydney Kingsford Smith Airport
+Sydney Kingsford Smith Airport
+Sydney Kingsford Smith Airport
+Sydney Kingsford Smith Airport
+Sydney Kingsford Smith Airport
 Shenzhen Bao'an International Airport
 Shenzhen Bao'an International Airport
 Shenzhen Bao'an International Airport

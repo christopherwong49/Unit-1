@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="956b63ef-ebba-4e99-8b62-d899450094b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/IntelliJ_DataSet/BusiestAirports/airport.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntelliJ_DataSet/BusiestAirports/country.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntelliJ_DataSet/BusiestAirports/totalpassengers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntelliJ_DataSet/BusiestAirports/year.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/As3_BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/As3_ParallelSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex3_PrimeMinisters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex3_PrimeMinisters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJ_DataSet/BusiestAirports/airport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IntelliJ_DataSet/BusiestAirports/airport.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/As3_ParallelSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/As3_ParallelSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1728405866124</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="10/16/2024">
+      <created>1729100356249</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729100356249</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,7 +96,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="10/16/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="10/16/2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
