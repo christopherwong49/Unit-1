@@ -43,4 +43,16 @@ public class MyFiles {
         return tempIntArray;
     }
 
+    public static void saveStringArray(String filename,String[] temp ) {
+        try {
+            PrintWriter file = new PrintWriter(new FileWriter(filename));
+
+            for (int i = 0; i < temp.length; i++) {
+                file.println(temp[i]);
+            }
+            file.close();
+        } catch (IOException ex) {
+            System.out.println(ex.toString());
+        }
+    }
 }
